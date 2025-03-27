@@ -19,9 +19,5 @@
 ## 📫 Let's Connect!  
 - 🔗 [LinkedIn](https://www.inkedin.com/in/shivam-kumar-299656297/)  
 
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-kr935&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kr935&layout=compact&theme=dark)  
-
 ### ⚡ Fun Fact  
 I love exploring AI advancements and participating in Kaggle competitions!
