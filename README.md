@@ -11,11 +11,6 @@
 ## 📊 Experience  
 - **PwC** (6 months) - Financial Data Analysis using SQL, Python, Alteryx, and Monarch.  
 
-## 📂 Featured Projects  
-🔹 [Financial Agentic AI ](https://github.com/shivam-kr935-Multimode_agenticAI) -   
-🔹 [End to end MLops network phising project](https://github.com/shivam-kr935/networksecurity)  
-🔹 [End to end ML project deployed using EC2 instance](https://github.com/shivam-kr935/mlproject)  
-
 ## 📫 Let's Connect!  
 - 🔗 [LinkedIn](https://www.inkedin.com/in/shivam-kumar-299656297/)  
 
