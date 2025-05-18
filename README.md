@@ -12,7 +12,7 @@
 - **PwC** (6 months) - Financial Data Analysis using SQL, Python, Alteryx, and Monarch.  
 
 ## 📫 Let's Connect!  
-- 🔗 [LinkedIn](https://www.inkedin.com/in/shivam-kumar-299656297)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-kumar-299656297)  
 
 ### ⚡ Fun Fact  
 I love exploring AI advancements and participating in Kaggle competitions!
